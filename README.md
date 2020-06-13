@@ -1,4 +1,4 @@
-# COVID-Dashboard
+# COVID19-Dashboard
 Created a COVID19 dashboard to bring together the data resource in response to the global outbreak of Coronavirus. 
 It's about what the data might tell us through visualizations and dashboards, and how they could help decision-makers, healthcare professionals and the general public.
 Source of data –
