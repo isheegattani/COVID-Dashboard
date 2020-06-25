@@ -7,3 +7,4 @@ https://lnkd.in/f4MaiZM
 The dashboard updates itself when the data gets updated in the sheet.
 The dashboard is made using Tableau public. You can always check the updates on
 https://lnkd.in/fM3giaB
+https://www.linkedin.com/posts/ishee-gattani-8a90a1bb_happylearning-inquistivelearner-dashboard-activity-6657517618901155840-7irl
